@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400" height="100" viewBox="0 0 400 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Red skull icon -->
+  <g transform="translate(10, 20)">
+    <!-- Skull shape -->
+    <path d="M30 5C40 5 48 13 48 23V35C48 45 45 50 40 55L35 60L25 60L20 55C15 50 12 45 12 35V23C12 13 20 5 30 5Z" fill="#DC2626"/>
+    <!-- Eye holes -->
+    <ellipse cx="22" cy="25" rx="4" ry="6" fill="#000000"/>
+    <ellipse cx="38" cy="25" rx="4" ry="6" fill="#000000"/>
+    <!-- Nose hole -->
+    <path d="M30 35L27 40L33 40Z" fill="#000000"/>
+    <!-- Mouth/teeth -->
+    <rect x="25" y="45" width="2" height="8" fill="#000000"/>
+    <rect x="28" y="45" width="2" height="6" fill="#000000"/>
+    <rect x="31" y="45" width="2" height="8" fill="#000000"/>
+    <rect x="34" y="45" width="2" height="6" fill="#000000"/>
+  </g>
+  
+  <!-- SPARQ text -->
+  <g transform="translate(80, 15)">
+    <!-- S -->
+    <path d="M0 0H25V15H10V25H25V40H0V25H15V15H0Z" fill="white"/>
+    <!-- P -->
+    <path d="M35 0H60V20H45V40H35V20H45V15H35Z" fill="white"/>
+    <!-- A -->
+    <path d="M70 0H95L85 40H75L80 25H75L70 40H60Z M75 15H80L82 20H73Z" fill="white"/>
+    <!-- R -->
+    <path d="M105 0H130V20H115L125 40H115L110 25H105V40H95V0Z M105 15H115V10H105Z" fill="white"/>
+    <!-- Q -->
+    <path d="M140 0C155 0 165 10 165 25C165 35 160 40 150 42L155 50H145L142 45H140V50H130V0Z M140 10V35H150C152 35 155 32 155 25C155 18 152 15 150 15H140Z" fill="white"/>
+  </g>
+  
+  <!-- GAMES text (smaller) -->
+  <g transform="translate(80, 65)">
+    <!-- G -->
+    <path d="M0 0H15V5H5V15H10V10H15V20H0V0Z" fill="white"/>
+    <!-- A -->
+    <path d="M20 0H35L30 20H25L27 12H23L20 20H15Z M23 8H27L28 10H22Z" fill="white"/>
+    <!-- M -->
+    <path d="M40 0H55L50 20H45V10L47 5L43 5L45 10V20H40Z" fill="white"/>
+    <!-- E -->
+    <path d="M60 0H75V5H65V8H70V12H65V15H75V20H60Z" fill="white"/>
+    <!-- S -->
+    <path d="M80 0H95V8H85V10H95V20H80V12H90V10H80Z" fill="white"/>
+  </g>
+  
+  <!-- TM symbol -->
+  <text x="380" y="20" font-family="Arial, sans-serif" font-size="12" fill="white">™</text>
+</svg>
