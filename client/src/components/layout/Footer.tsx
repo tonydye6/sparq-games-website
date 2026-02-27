@@ -39,7 +39,7 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-10 mb-12">
           <div className="md:col-span-1">
             <Link href="/" className="flex items-center mb-4">
-              <img src="./images/logo.png" alt="Sparq Games Logo" className="h-10" />
+              <img src="./images/logo.png" alt="Sparq Games Logo" className="h-10" loading="lazy" />
             </Link>
             <p className="text-gray-400 mb-6">Revolutionizing sports gaming with AI and premium IP.</p>
             <div className="flex space-x-4">

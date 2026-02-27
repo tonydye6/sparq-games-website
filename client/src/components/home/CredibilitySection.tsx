@@ -27,10 +27,11 @@ const CredibilityCard = ({ icon, title, description, delay, characterImage }: Cr
       {/* Character image - perfectly sized to fit card height */}
       {characterImage && (
         <div className="absolute top-0 right-0 h-full w-auto opacity-70 group-hover:opacity-90 transition-all duration-500 group-hover:scale-105 overflow-hidden rounded-r-2xl">
-          <img 
-            src={characterImage} 
+          <img
+            src={characterImage}
             alt={`${title} character`}
             className="h-full w-auto object-contain object-bottom filter drop-shadow-lg"
+            loading="lazy"
           />
         </div>
       )}
@@ -120,10 +121,11 @@ const CredibilitySection = () => {
                 data-aos="fade-up"
                 data-aos-delay={100 * (index + 1)}
               >
-                <img 
+                <img
                   src={partner.logo}
                   alt={partner.alt}
                   className="max-h-16 w-auto filter grayscale group-hover:grayscale-0 opacity-70 group-hover:opacity-100 transition-all duration-300 object-contain"
+                  loading="lazy"
                 />
               </div>
             ))}

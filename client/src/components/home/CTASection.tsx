@@ -7,10 +7,11 @@ const CTASection = () => {
   return (
     <section className="py-20 lg:py-28 bg-primary relative">
       <div className="absolute inset-0 opacity-10">
-        <img 
-          src="https://images.unsplash.com/photo-1529156069898-49953e39b3ac?ixlib=rb-4.0.3&auto=format&fit=crop&w=1920&h=1080" 
-          alt="People Gaming Together" 
+        <img
+          src="https://images.unsplash.com/photo-1529156069898-49953e39b3ac?ixlib=rb-4.0.3&auto=format&fit=crop&w=1920&h=1080"
+          alt="People Gaming Together"
           className="w-full h-full object-cover"
+          loading="lazy"
         />
       </div>
       

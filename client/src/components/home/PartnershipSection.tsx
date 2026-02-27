@@ -82,10 +82,11 @@ const PartnershipSection = () => {
     <section className="py-20 lg:py-28 bg-gradient-to-br from-muted via-background to-muted relative overflow-hidden">
       {/* Enhanced background with animated elements */}
       <div className="absolute inset-0 opacity-10">
-        <img 
-          src="./images/university-stadium.png" 
-          alt="University Stadium" 
+        <img
+          src="./images/university-stadium.png"
+          alt="University Stadium"
           className="w-full h-full object-cover"
+          loading="lazy"
         />
       </div>
       

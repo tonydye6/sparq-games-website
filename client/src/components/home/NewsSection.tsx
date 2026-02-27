@@ -18,10 +18,11 @@ const NewsArticle = ({ source, date, title, description, image, link, delay }: N
       data-aos="fade-up"
       data-aos-delay={delay}
     >
-      <img 
-        src={image} 
-        alt={title} 
+      <img
+        src={image}
+        alt={title}
         className="w-full h-48 object-cover"
+        loading="lazy"
       />
       <div className="p-6">
         <div className="flex items-center justify-between mb-4">

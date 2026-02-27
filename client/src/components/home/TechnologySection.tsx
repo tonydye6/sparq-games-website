@@ -36,10 +36,11 @@ const TechnologySection = () => {
     <section className="py-20 lg:py-28 bg-gradient-to-br from-primary via-primary-dark to-primary relative overflow-hidden">
       {/* Enhanced background with animated elements */}
       <div className="absolute inset-0 opacity-10">
-        <img 
-          src="https://images.unsplash.com/photo-1581089781785-603411fa81e5?ixlib=rb-4.0.3&auto=format&fit=crop&w=1920&h=1080" 
-          alt="Technology Background" 
+        <img
+          src="https://images.unsplash.com/photo-1581089781785-603411fa81e5?ixlib=rb-4.0.3&auto=format&fit=crop&w=1920&h=1080"
+          alt="Technology Background"
           className="w-full h-full object-cover"
+          loading="lazy"
         />
       </div>
       

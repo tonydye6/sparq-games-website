@@ -25,14 +25,14 @@ const TeamMember = ({ name, role, bio, image, logos = [], delay }: TeamMemberPro
           style={{ 
             imageRendering: 'auto'
           }}
-          loading="eager"
+          loading="lazy"
           srcSet={`${image} 1x, ${image} 2x`}
         />
         <div className="absolute inset-0 bg-gradient-to-t from-background via-background/20 to-transparent opacity-60 group-hover:opacity-80 transition-opacity duration-300"></div>
         <div className="absolute top-4 right-4 flex space-x-2">
           {logos.map((logo, index) => (
             <div key={index} className="h-16 w-16 bg-gradient-to-br from-background/80 to-muted/60 backdrop-blur-md rounded-xl p-1 flex items-center justify-center shadow-lg border border-primary/30 group-hover:scale-110 transition-transform duration-300">
-              <img src={logo.image} alt={logo.name} className="w-full h-full object-contain" />
+              <img src={logo.image} alt={logo.name} className="w-full h-full object-contain" loading="lazy" />
             </div>
           ))}
         </div>

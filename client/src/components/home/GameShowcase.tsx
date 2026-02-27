@@ -69,10 +69,11 @@ const GameShowcase = () => {
           
           <div className="relative" data-aos="fade-up" data-aos-delay="200">
             <div className="bg-gradient-to-br from-muted/50 to-background/30 backdrop-blur-sm rounded-3xl p-8 border border-primary/30 shadow-2xl">
-              <img 
-                src="./images/crown-u-demo-image.png" 
-                alt="Crown U! Game Demo" 
+              <img
+                src="./images/crown-u-demo-image.png"
+                alt="Crown U! Game Demo"
                 className="w-full h-auto rounded-2xl shadow-xl"
+                loading="lazy"
               />
             </div>
             
