@@ -9,6 +9,14 @@ const PrivacyPage = () => {
         <meta property="og:title" content="Privacy Policy - Sparq Games" />
         <meta property="og:description" content="Privacy Policy for Sparq Games and the Magieva integration service." />
         <meta property="og:type" content="website" />
+        <meta property="og:url" content="https://www.sparqgames.com/privacy" />
+        <meta property="og:image" content="https://www.sparqgames.com/images/og-image.png" />
+        <meta property="og:image:width" content="1200" />
+        <meta property="og:image:height" content="630" />
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:site" content="@sparqgames" />
+        <meta name="twitter:image" content="https://www.sparqgames.com/images/og-image.png" />
+        <link rel="canonical" href="https://www.sparqgames.com/privacy" />
       </Helmet>
 
       <section className="relative pt-32 pb-20 lg:pt-40 lg:pb-32 overflow-hidden">

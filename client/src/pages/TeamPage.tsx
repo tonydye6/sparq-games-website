@@ -305,10 +305,19 @@ const TeamPage = () => {
           content="Meet the Sparq Inc. leadership team and advisors. Industry veterans with 140+ years of combined gaming expertise, collegiate athletics experience, and business acumen." 
         />
         <meta property="og:title" content="Our Team | Sparq Inc. - Industry Veterans in Gaming and Sports" />
-        <meta 
-          property="og:description" 
-          content="Meet the Sparq Inc. leadership team and advisors. Industry veterans with 140+ years of combined gaming expertise, collegiate athletics experience, and business acumen." 
+        <meta
+          property="og:description"
+          content="Meet the Sparq Inc. leadership team and advisors. Industry veterans with 140+ years of combined gaming expertise, collegiate athletics experience, and business acumen."
         />
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="https://www.sparqgames.com/team" />
+        <meta property="og:image" content="https://www.sparqgames.com/images/og-image.png" />
+        <meta property="og:image:width" content="1200" />
+        <meta property="og:image:height" content="630" />
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:site" content="@sparqgames" />
+        <meta name="twitter:image" content="https://www.sparqgames.com/images/og-image.png" />
+        <link rel="canonical" href="https://www.sparqgames.com/team" />
       </Helmet>
       
       <section className="relative pt-32 pb-20 lg:pt-40 lg:pb-32 overflow-hidden">

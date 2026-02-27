@@ -18,7 +18,14 @@ const TechnologyPage = () => {
         <meta property="og:title" content="Technology - Sparq Inc. AI & Game Development" />
         <meta property="og:description" content="Explore Sparq Inc.'s cutting-edge AI technology and game development platform revolutionizing collegiate sports gaming." />
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://sparqinc.com/technology" />
+        <meta property="og:url" content="https://www.sparqgames.com/technology" />
+        <meta property="og:image" content="https://www.sparqgames.com/images/og-image.png" />
+        <meta property="og:image:width" content="1200" />
+        <meta property="og:image:height" content="630" />
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:site" content="@sparqgames" />
+        <meta name="twitter:image" content="https://www.sparqgames.com/images/og-image.png" />
+        <link rel="canonical" href="https://www.sparqgames.com/technology" />
       </Helmet>
       <section className="relative pt-32 pb-20 lg:pt-40 lg:pb-32 overflow-hidden">
         {/* Video background */}

@@ -30,7 +30,14 @@ const ContactPage = () => {
         <meta property="og:title" content="Contact & Beta Signup - Sparq Inc." />
         <meta property="og:description" content="Get in touch with Sparq Inc., join the Crown U! beta waitlist, or inquire about university partnerships. Limited beta spots available!" />
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://sparqinc.com/contact" />
+        <meta property="og:url" content="https://www.sparqgames.com/contact" />
+        <meta property="og:image" content="https://www.sparqgames.com/images/og-image.png" />
+        <meta property="og:image:width" content="1200" />
+        <meta property="og:image:height" content="630" />
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:site" content="@sparqgames" />
+        <meta name="twitter:image" content="https://www.sparqgames.com/images/og-image.png" />
+        <link rel="canonical" href="https://www.sparqgames.com/contact" />
       </Helmet>
       
       <section className="page-hero relative pt-32 pb-16 lg:pt-40 lg:pb-20 overflow-hidden">

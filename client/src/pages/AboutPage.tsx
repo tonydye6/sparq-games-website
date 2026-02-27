@@ -22,7 +22,14 @@ const AboutPage = () => {
         <meta property="og:title" content="About Sparq Inc. - Our Mission & Team" />
         <meta property="og:description" content="Learn about Sparq Inc.'s mission to revolutionize sports gaming through AI innovation and our talented team of industry veterans." />
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://sparqinc.com/about" />
+        <meta property="og:url" content="https://www.sparqgames.com/about" />
+        <meta property="og:image" content="https://www.sparqgames.com/images/og-image.png" />
+        <meta property="og:image:width" content="1200" />
+        <meta property="og:image:height" content="630" />
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:site" content="@sparqgames" />
+        <meta name="twitter:image" content="https://www.sparqgames.com/images/og-image.png" />
+        <link rel="canonical" href="https://www.sparqgames.com/about" />
       </Helmet>
       
       <section className="relative pt-32 pb-20 lg:pt-40 lg:pb-32 overflow-hidden">

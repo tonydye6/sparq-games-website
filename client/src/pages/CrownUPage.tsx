@@ -20,6 +20,14 @@ const CrownUPage = () => {
         <meta property="og:title" content="Crown U - Multiplayer Party Knockout Mobile Game | Sparq Games" />
         <meta property="og:description" content="Crown U: The ultimate multiplayer party knockout mobile game featuring licensed NCAA athletes, universities, and stadiums. 16 players battle through elimination rounds in cross-sport competition." />
         <meta property="og:type" content="website" />
+        <meta property="og:url" content="https://www.sparqgames.com/crown-u" />
+        <meta property="og:image" content="https://www.sparqgames.com/images/og-image.png" />
+        <meta property="og:image:width" content="1200" />
+        <meta property="og:image:height" content="630" />
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:site" content="@sparqgames" />
+        <meta name="twitter:image" content="https://www.sparqgames.com/images/og-image.png" />
+        <link rel="canonical" href="https://www.sparqgames.com/crown-u" />
         <meta name="keywords" content="Crown U, multiplayer party knockout, NCAA mobile game, college athlete gaming, university sports game, mobile gaming app, party game, knockout tournament" />
         
         {/* Structured Data for Crown U Game */}
