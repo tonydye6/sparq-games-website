@@ -27,6 +27,12 @@ const HomePage = () => {
         <meta property="og:description" content="Revolutionary AI sports gaming platform connecting college athletes with fans. Mobile gaming apps featuring NIL partnerships, NCAA licensing, and authentic athlete experiences through Crown U and innovative game development." />
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://sparqgames.com" />
+        <meta property="og:image" content="https://www.sparqgames.com/images/og-image.png" />
+        <meta property="og:image:width" content="1200" />
+        <meta property="og:image:height" content="630" />
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:site" content="@sparqgames" />
+        <meta name="twitter:image" content="https://www.sparqgames.com/images/og-image.png" />
         <meta name="keywords" content="AI sports gaming, college athletics gaming, NCAA mobile games, NIL gaming platform, athlete partnerships, university licensing, Crown U, multiplayer party knockout, mobile gaming apps" />
         
         {/* Structured Data for AI SEO */}
