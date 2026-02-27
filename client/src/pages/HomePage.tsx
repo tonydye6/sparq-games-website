@@ -33,6 +33,7 @@ const HomePage = () => {
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:site" content="@sparqgames" />
         <meta name="twitter:image" content="https://www.sparqgames.com/images/og-image.png" />
+        <link rel="canonical" href="https://www.sparqgames.com/" />
         <meta name="keywords" content="AI sports gaming, college athletics gaming, NCAA mobile games, NIL gaming platform, athlete partnerships, university licensing, Crown U, multiplayer party knockout, mobile gaming apps" />
         
         {/* Structured Data for AI SEO */}
