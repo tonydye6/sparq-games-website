@@ -26,7 +26,7 @@ const HomePage = () => {
         <meta property="og:title" content="Sparq Games - AI-Powered Sports Gaming Platform | College Athlete Mobile Games" />
         <meta property="og:description" content="AI-powered sports gaming platform connecting college athletes with fans. Crown U features NIL partnerships, NCAA licensing, and authentic athlete experiences." />
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://sparqgames.com" />
+        <meta property="og:url" content="https://www.sparqgames.com/" />
         <meta property="og:image" content="https://www.sparqgames.com/images/og-image.png" />
         <meta property="og:image:width" content="1200" />
         <meta property="og:image:height" content="630" />
@@ -46,7 +46,7 @@ const HomePage = () => {
                 "name": "Sparq Games",
                 "alternateName": "Sparq Inc",
                 "description": "AI-powered sports gaming platform connecting college athletes with fans through innovative mobile gaming experiences featuring NCAA licensing and NIL partnerships",
-                "url": "https://sparqgames.com",
+                "url": "https://www.sparqgames.com",
                 "sameAs": [
                   "https://linkedin.com/company/sparqgames",
                   "https://x.com/sparqgames"
