@@ -98,7 +98,7 @@ const PartnershipSection = () => {
       <div className="container mx-auto px-4 lg:px-8 relative z-10">
         <div className="text-center max-w-4xl mx-auto mb-20" data-aos="fade-up">
           <h2 className="text-4xl lg:text-6xl font-display mb-6 leading-tight">
-            <span className="font-neodex text-primary">NCAA</span>
+            <span className="font-neodex text-primary">NCAA</span>{" "}
             <span className="block lg:inline ml-0 lg:ml-4">Partnerships</span>
           </h2>
           <div className="w-24 h-1 bg-gradient-to-r from-primary to-primary-dark mx-auto mb-6 rounded-full"></div>

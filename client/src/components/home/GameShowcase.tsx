@@ -34,7 +34,7 @@ const GameShowcase = () => {
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
           <div data-aos="fade-up">
             <h2 className="text-4xl lg:text-5xl font-display mb-6 leading-tight">
-              <span className="font-neodex text-primary transform -skew-x-6 inline-block mr-3">CROWN U!</span>™ 
+              <span className="font-neodex text-primary transform -skew-x-6 inline-block mr-3">CROWN U!</span>™{" "}
               <span className="block mt-2">The Ultimate NCAA Gaming Experience</span>
             </h2>
             <div className="w-24 h-1 bg-gradient-to-r from-primary to-primary-dark mb-6 rounded-full"></div>

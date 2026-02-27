@@ -53,7 +53,7 @@ const TechnologySection = () => {
       <div className="container mx-auto px-4 lg:px-8 relative z-10">
         <div className="text-center max-w-4xl mx-auto mb-16 lg:mb-20" data-aos="fade-up">
           <h2 className="text-4xl lg:text-6xl font-display mb-6 leading-tight">
-            <span className="font-neodex text-white">AI-POWERED</span>
+            <span className="font-neodex text-white">AI-POWERED</span>{" "}
             <span className="block lg:inline ml-0 lg:ml-4">Game Development Platform</span>
           </h2>
           <div className="w-24 h-1 bg-gradient-to-r from-white to-cyan-200 mx-auto mb-6 rounded-full"></div>
