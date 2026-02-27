@@ -22,9 +22,9 @@ const HomePage = () => {
     <>
       <Helmet>
         <title>Sparq Games - AI-Powered Sports Gaming Platform | College Athlete Mobile Games</title>
-        <meta name="description" content="Revolutionary AI sports gaming platform connecting college athletes with fans. Mobile gaming apps featuring NIL partnerships, NCAA licensing, and authentic athlete experiences through Crown U and innovative game development." />
+        <meta name="description" content="AI-powered sports gaming platform connecting college athletes with fans. Crown U features NIL partnerships, NCAA licensing, and authentic athlete experiences." />
         <meta property="og:title" content="Sparq Games - AI-Powered Sports Gaming Platform | College Athlete Mobile Games" />
-        <meta property="og:description" content="Revolutionary AI sports gaming platform connecting college athletes with fans. Mobile gaming apps featuring NIL partnerships, NCAA licensing, and authentic athlete experiences through Crown U and innovative game development." />
+        <meta property="og:description" content="AI-powered sports gaming platform connecting college athletes with fans. Crown U features NIL partnerships, NCAA licensing, and authentic athlete experiences." />
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://sparqgames.com" />
         <meta property="og:image" content="https://www.sparqgames.com/images/og-image.png" />
